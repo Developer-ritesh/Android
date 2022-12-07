@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "371897199992",
+    "firebase_url": "https://suraj-1e500-default-rtdb.firebaseio.com",
+    "project_id": "suraj-1e500",
+    "storage_bucket": "suraj-1e500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371897199992:android:1197ca3f29f2b0f0c9ac8d",
+        "android_client_info": {
+          "package_name": "com.biharigraphic.suraj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371897199992-9vgl56ok7mc6cggh7h3l2isjrq6m2q48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdWZ20FNRcK4RqtqC57ePotxJ3ppdHeZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371897199992-9vgl56ok7mc6cggh7h3l2isjrq6m2q48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
